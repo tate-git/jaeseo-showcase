@@ -2,7 +2,7 @@
 
 [한국어](README.md) · **English**
 
-A personal finance assistant: snap a receipt and see how much money is left. It tracks team/project budgets and household spending, and previews how much each spouse will get back at Korean year-end tax settlement.
+A personal finance assistant that makes money management easy, starting with a receipt. It tracks team/project budgets and household spending, and previews how much each spouse will get back at Korean year-end tax settlement.
 
 ▶ **Try it: [jaeseo.lunchtime.workers.dev](https://jaeseo.lunchtime.workers.dev)** (sign up and start · designed for phones · Korean UI)
 
