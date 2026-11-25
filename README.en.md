@@ -4,7 +4,7 @@
 
 A personal finance assistant that makes money management easy, starting with a receipt. It tracks team/project budgets and household spending, and previews how much each spouse will get back at Korean year-end tax settlement.
 
-▶ **Try it: [jaeseo.lunchtime.workers.dev](https://jaeseo.lunchtime.workers.dev)** (sign up and start · designed for phones · Korean UI)
+▶ **Try it: [jaeseo.lunchtime.workers.dev](https://jaeseo.lunchtime.workers.dev)** (no sign-up needed: tap 「예시로 둘러보기」 (Try with sample data) to explore a demo account, auto-deleted after 24 hours · designed for phones · Korean UI)
 
 > This repository is a showcase. The service source code is kept private.
 

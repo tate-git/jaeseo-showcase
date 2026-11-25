@@ -4,7 +4,7 @@
 
 영수증으로 가볍게 시작하는 돈 관리, 재무 비서 재서. 팀·프로젝트 예산과 우리 집 생활비를 관리하고, 연말정산 때 부부가 각자 얼마나 돌려받을지 미리 계산해 줍니다.
 
-▶ **써 보기: [jaeseo.lunchtime.workers.dev](https://jaeseo.lunchtime.workers.dev)** (가입 후 바로 사용 · 휴대폰 화면 기준)
+▶ **써 보기: [jaeseo.lunchtime.workers.dev](https://jaeseo.lunchtime.workers.dev)** (가입 없이 「예시로 둘러보기」로 바로 써 볼 수 있어요 · 체험 계정은 24시간 뒤 자동 삭제 · 휴대폰 화면 기준)
 
 > 이 저장소는 소개용입니다. 서비스 코드는 비공개로 관리합니다.
 
